@@ -1,0 +1,37 @@
+.cc-icon {
+	background-image: url(/packages/creditcardicons/img/Flat-Credit-Card-Icons-580.png);
+	background-repeat: no-repeat;
+	width: 68px;
+	height: 46px;
+	display: inline-block;
+}
+/* 54px between cards horizontally (146), 40px vertically (102)*/
+.cc-backside {background-position: -66px -35px; }
+.cc-amazon {background-position: -212px -35px; }
+.cc-amazon-a {background-position: -358px -35px; }
+.cc-amex {background-position: -504px -35px; }
+.cc-american-express {background-position: -650px -35px; }
+/* second row */
+.cc-dollar-sign {background-position: -66px -137px; }
+.cc-present {background-position: -212px -137px; }
+.cc-apple-grey {background-position: -358px -137px; }
+.cc-apple-black {background-position: -504px -137px; }
+.cc-discover-white {background-position: -650px -137px; }
+/* third row */
+.cc-discover-orange {background-position: -66px -239px; }
+.cc-discover-black {background-position: -212px -239px; }
+.cc-visa {background-position: -358px -239px; }
+.cc-visa-blue {background-position: -504px -239px; }
+.cc-mastercard {background-position: -650px -239px; }
+/* fourth row */
+.cc-mastercard-empty {background-position: -66px -341px; }
+.cc-maestro {background-position: -212px -341px; }
+.cc-maestro-empty {background-position: -358px -341px; }
+.cc-paypal-white {background-position: -504px -341px; }
+.cc-paypal-blue {background-position: -650px -341px; }
+/* fifth row */
+.cc-paypal-p {background-position: -66px -443px; }
+.cc-android-white {background-position: -212px -443px; }
+.cc-android-black {background-position: -358px -443px; }
+.cc-diners-white {background-position: -504px -443px; }
+.cc-diners-blue {background-position: -650px -443px; }
