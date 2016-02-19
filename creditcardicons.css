@@ -39,37 +39,37 @@
 .cc-icon-lg {
 	background-image: url(/packages/creditcardicons/img/Flat-Credit-Card-Icons-1160.png);
 	background-repeat: no-repeat;
-	width: 68px;
-	height: 46px;
+	width: 137px;
+	height: 91px;
 	display: inline-block;
 }
 /* 54px between cards horizontally (105), 40px vertically (102)*/
-.cc-icon-lg.cc-backside {background-position: -47px -24px; }
-.cc-icon-lg.cc-amazon {background-position: -152px -24px; }
-.cc-icon-lg.cc-amazon-a {background-position: -256px -24px; }
-.cc-icon-lg.cc-amex {background-position: -360px -24px; }
-.cc-icon-lg.cc-american-express {background-position: -465px -24px; }
+.cc-icon-lg.cc-backside {background-position: -93px -49px; }
+.cc-icon-lg.cc-amazon {background-position: -303px -49px; }
+.cc-icon-lg.cc-amazon-a {background-position: -511px -49px; }
+.cc-icon-lg.cc-amex {background-position: -720px -49px; }
+.cc-icon-lg.cc-american-express {background-position: -929px -49px; }
 /* second row */
-.cc-icon-lg.cc-dollar-sign {background-position: -47px -97px; }
-.cc-icon-lg.cc-present {background-position: -152px -97px; }
-.cc-icon-lg.cc-apple-grey {background-position: -256px -97px; }
-.cc-icon-lg.cc-apple-black {background-position: -360px -97px; }
-.cc-icon-lg.cc-discover-white {background-position: -465px -97px; }
+.cc-icon-lg.cc-dollar-sign {background-position: -93px -195px; }
+.cc-icon-lg.cc-present {background-position: -303px -195px; }
+.cc-icon-lg.cc-apple-grey {background-position: -511px -195px; }
+.cc-icon-lg.cc-apple-black {background-position: -720px -195px; }
+.cc-icon-lg.cc-discover-white {background-position: -929px -195px; }
 /* third row */
-.cc-icon-lg.cc-discover-orange {background-position: -47px -171px; }
-.cc-icon-lg.cc-discover-black {background-position: -152px -171px; }
-.cc-icon-lg.cc-visa {background-position: -256px -171px; }
-.cc-icon-lg.cc-visa-blue {background-position: -360px -171px; }
-.cc-icon-lg.cc-mastercard {background-position: -465px -171px; }
+.cc-icon-lg.cc-discover-orange {background-position: -93px -341px; }
+.cc-icon-lg.cc-discover-black {background-position: -303px -341px; }
+.cc-icon-lg.cc-visa {background-position: -511px -341px; }
+.cc-icon-lg.cc-visa-blue {background-position: -720px -341px; }
+.cc-icon-lg.cc-mastercard {background-position: -929px -341px; }
 /* fourth row */
-.cc-icon-lg.cc-mastercard-empty {background-position: -47px -244px; }
-.cc-icon-lg.cc-maestro {background-position: -152px -244px; }
-.cc-icon-lg.cc-maestro-empty {background-position: -256px -244px; }
-.cc-icon-lg.cc-paypal-white {background-position: -360px -244px; }
-.cc-icon-lg.cc-paypal-blue {background-position: -465px -244px; }
+.cc-icon-lg.cc-mastercard-empty {background-position: -93px -487px; }
+.cc-icon-lg.cc-maestro {background-position: -303px -487px; }
+.cc-icon-lg.cc-maestro-empty {background-position: -511px -487px; }
+.cc-icon-lg.cc-paypal-white {background-position: -720px -487px; }
+.cc-icon-lg.cc-paypal-blue {background-position: -929px -487px; }
 /* fifth row */
-.cc-icon-lg.cc-paypal-p {background-position: -47px -317px; }
-.cc-icon-lg.cc-android-white {background-position: -152px -317px; }
-.cc-icon-lg.cc-android-black {background-position: -256px -317px; }
-.cc-icon-lg.cc-diners-white {background-position: -360px -317px; }
-.cc-icon-lg.cc-diners-blue {background-position: -465px -317px; }
+.cc-icon-lg.cc-paypal-p {background-position: -93px -633px; }
+.cc-icon-lg.cc-android-white {background-position: -303px -633px; }
+.cc-icon-lg.cc-android-black {background-position: -511px -633px; }
+.cc-icon-lg.cc-diners-white {background-position: -720px -633px; }
+.cc-icon-lg.cc-diners-blue {background-position: -929px -633px; }
