@@ -12,10 +12,13 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.2.1');
-  api.use('ecmascript');
+  // api.use('ecmascript');
   // http://stackoverflow.com/questions/24143504/meteor-package-how-to-add-static-files
-  api.addFiles('creditcardicons.css','client');
-  api.addFiles('img/Flat-Credit-Card-Icons-580.png', 'client',{isAsset: true});
+  api.addFiles('creditcardicons.css', 'client')
+  api.addFiles([
+    'img/Flat-Credit-Card-Icons-580.png',
+    'img/Flat-Credit-Card-Icons-1160.png'
+  ], 'client',{isAsset: true});
 });
 
 Package.onTest(function(api) {
