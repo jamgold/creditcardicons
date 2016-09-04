@@ -73,3 +73,41 @@
 .cc-icon-lg.cc-android-black {background-position: -511px -633px; }
 .cc-icon-lg.cc-diners-white {background-position: -720px -633px; }
 .cc-icon-lg.cc-diners-blue {background-position: -929px -633px; }
+
+.cc-icon-sm {
+	background-image: url(/packages/creditcardicons/img/Flat-Credit-Card-Icons-406.png);
+	background-repeat: no-repeat;
+	width: 48px;
+	height: 32px;
+	display: inline-block;
+}
+/* 73px between cards horizontally, 51px vertically*/
+.cc-icon-sm.cc-backside {background-position: -33px -17px; }
+.cc-icon-sm.cc-amazon {background-position: -106px -17px; }
+.cc-icon-sm.cc-amazon-a {background-position: -176px -17px; }
+.cc-icon-sm.cc-amex {background-position: -252px -17px; }
+.cc-icon-sm.cc-american-express {background-position: -325px -17px; }
+/* second row */
+.cc-icon-sm.cc-dollar-sign {background-position: -33px -68px; }
+.cc-icon-sm.cc-present {background-position: -106px -68px; }
+.cc-icon-sm.cc-apple-grey {background-position: -176px -68px; }
+.cc-icon-sm.cc-apple-black {background-position: -252px -68px; }
+.cc-icon-sm.cc-discover-white {background-position: -325px -68px; }
+/* third row */
+.cc-icon-sm.cc-discover-orange {background-position: -33px -119px; }
+.cc-icon-sm.cc-discover-black {background-position: -106px -119px; }
+.cc-icon-sm.cc-visa {background-position: -176px -119px; }
+.cc-icon-sm.cc-visa-blue {background-position: -252px -119px; }
+.cc-icon-sm.cc-mastercard {background-position: -325px -119px; }
+/* fourth row */
+.cc-icon-sm.cc-mastercard-empty {background-position: -33px -170px; }
+.cc-icon-sm.cc-maestro {background-position: -106px -170px; }
+.cc-icon-sm.cc-maestro-empty {background-position: -176px -170px; }
+.cc-icon-sm.cc-paypal-white {background-position: -252px -170px; }
+.cc-icon-sm.cc-paypal-blue {background-position: -325px -170px; }
+/* fifth row */
+.cc-icon-sm.cc-paypal-p {background-position: -33px -221px; }
+.cc-icon-sm.cc-android-white {background-position: -106px -221px; }
+.cc-icon-sm.cc-android-black {background-position: -176px -221px; }
+.cc-icon-sm.cc-diners-white {background-position: -252px -221px; }
+.cc-icon-sm.cc-diners-blue {background-position: -325px -221px; }

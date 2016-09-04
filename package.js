@@ -16,6 +16,7 @@ Package.onUse(function(api) {
   // http://stackoverflow.com/questions/24143504/meteor-package-how-to-add-static-files
   api.addFiles('creditcardicons.css', 'client')
   api.addFiles([
+    'img/Flat-Credit-Card-Icons-406.png',
     'img/Flat-Credit-Card-Icons-580.png',
     'img/Flat-Credit-Card-Icons-1160.png'
   ], 'client',{isAsset: true});
